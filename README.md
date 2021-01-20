@@ -1,3 +1,3 @@
-# eot
-Extraction Of Tweets
-Extraction of Tweets Here we are going to do this in R language we have already created the UI using shinny and now get your twitter developer api keys and paste it in the code. https://developer.twitter.com/
+# EOT
+This project is about “EXTRACTION OF DATA” from offline and online. This project gives Information about huge amount of data given by the users in the world, Therefore we started to collect the required data from some social networking sites like (twitter, facebook). This is mainly used in Major sources of abundant data, Business: Web, e-commerce, transactions, stocks, Science: Remote sensing, bioinformatics, scientific simulation, Society and everyone: news, digital cameras are used. For gathering Information about a particular topic and much more.
+It is done using R language I have already created the UI using shinny and now get twitter developer api keys and paste it in the code. https://developer.twitter.com/
